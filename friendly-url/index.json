@@ -23,6 +23,7 @@
   },
   "environment": {},
   "backend": {
-    "imageid": "nodejs:16"
+    "imageid": "nodejs:16",
+    "uilayout" : "vscode-terminal-split"
   }
 }
